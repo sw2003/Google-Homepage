@@ -1,0 +1,36 @@
+.google_image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+    width: 15%;
+    
+}
+
+.search_bar{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 3%;
+    width: 30%;
+    height: 50%;
+    border-radius: 25px;
+    border-color: whitesmoke;
+}
+
+.google_button{
+    display: inline;
+    width: 7%;
+    height: 10%;
+}
+
+.google_search{
+    margin-left: 40%; 
+    margin-top: 2%; 
+}
+
+.lucky{
+    margin-left: 5%;
+
+
+}
